@@ -1,0 +1,23 @@
+version: "3.1"
+
+services:
+  gobarber_db:
+    image: postgres
+    container_name: gobarber
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: docker
+      POSTGRES_DB: gobarber
+    ports:
+      - 5432:5432
+
+  gobarber_mongo:
+    image: mongo
+    container_name: gobarber_mongo
+    ports:
+      - 27017:27017
+  gobarber_redis:
+    image: redis:alpine
+    container_name: gobarber_redis
+    ports:
+      - 6379:6379

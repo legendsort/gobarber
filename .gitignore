@@ -8,5 +8,5 @@ coverage
 ormconfig.json
 dist
 
-#tmp/*
+tmp/*
 !tmp/uploads/.gitkeep

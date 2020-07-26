@@ -1563,10 +1563,10 @@
   resolved "https://registry.yarnpkg.com/@types/hapi__joi/-/hapi__joi-17.1.0.tgz#b5324c423a49697ea0926f19cc90c6f5cbb68391"
   integrity sha512-zqPGKJ3FUiut0NZUstLBm3gAkSMwWwn/soNi/KvefJfhlaQYYoLnMiMCaMN97dPK4iKjFSIVwRbHANSgUCKm7g==
 
-"@types/ioredis@^4.16.2":
-  version "4.16.2"
-  resolved "https://registry.yarnpkg.com/@types/ioredis/-/ioredis-4.16.2.tgz#192c487a003463a6881dbc29faaa168902ef851a"
-  integrity sha512-b1wSWCLx5ygzDZ2d1BYBzsTzUcPEOcJH8d5O6AJGGJXjE6C+HrlA61sw5GQNqtqTPVo2Hpc4rPA30lI0T6QSLQ==
+"@types/ioredis@^4.17.2":
+  version "4.17.2"
+  resolved "https://registry.yarnpkg.com/@types/ioredis/-/ioredis-4.17.2.tgz#2a9b0aeba5cf8d5f38afdeb85ef77ec95040d80c"
+  integrity sha512-T0sEKyqkhr4/RfgM2iTtmy0uPI4QZ9c0syq3mmAPNS5ZZMzjdtKv1ziuTdyNUvh0mZihXfKcRcWZI2wRYnxO7Q==
   dependencies:
     "@types/node" "*"
 

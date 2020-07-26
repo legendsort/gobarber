@@ -15,7 +15,7 @@
     "@types/nodemailer": "^6.4.0",
     "aws-sdk": "^2.719.0",
     "bcryptjs": "^2.4.3",
-    "celebrate": "^12.1.1",
+    "celebrate": "^12.1.2",
     "class-transformer": "^0.2.3",
     "cors": "^2.8.5",
     "date-fns": "^2.12.0",

@@ -46,7 +46,7 @@
     "@babel/preset-env": "^7.10.3",
     "@babel/preset-typescript": "^7.10.1",
     "@types/bcryptjs": "^2.4.2",
-    "@types/express": "^4.17.6",
+    "@types/express": "^4.17.7",
     "@types/hapi__joi": "^17.1.0",
     "@types/ioredis": "^4.17.2",
     "@types/jest": "^26.0.7",

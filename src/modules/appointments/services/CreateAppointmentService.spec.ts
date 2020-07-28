@@ -36,7 +36,9 @@ describe('CreateAppointment', () => {
   });
 
   it('should not be able to create two appointments on the same time', async () => {
-    const appointmentDate = new Date(2020, 5, 10, 11);
+    const today = new Date()
+
+    const appointmentDate = new Date(today.getFullYear(), today.getMonth(), today.getDate(), 11);
 
     await createAppointmentService.execute({
       date: appointmentDate,

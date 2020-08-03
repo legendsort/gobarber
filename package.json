@@ -13,7 +13,7 @@
   "dependencies": {
     "@types/cors": "^2.8.6",
     "@types/nodemailer": "^6.4.0",
-    "aws-sdk": "^2.724.0",
+    "aws-sdk": "^2.725.0",
     "bcryptjs": "^2.4.3",
     "celebrate": "^12.1.2",
     "class-transformer": "^0.3.1",

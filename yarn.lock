@@ -2191,10 +2191,10 @@ caseless@~0.12.0:
   resolved "https://registry.yarnpkg.com/caseless/-/caseless-0.12.0.tgz#1b681c21ff84033c826543090689420d187151dc"
   integrity sha1-G2gcIf+EAzyCZUMJBolCDRhxUdw=
 
-celebrate@^13.0.0:
-  version "13.0.0"
-  resolved "https://registry.yarnpkg.com/celebrate/-/celebrate-13.0.0.tgz#1eca73c078b99e6f4767a270d365cd1468d97803"
-  integrity sha512-CQj/NxdKFyvvKAFV41gBAzfYC0uofxmEjfM5TnPW5FtJU9A/TdrN6pgh6uWPCY3K/1uf+BvI0KjmYRL3rmEXMQ==
+celebrate@^13.0.1:
+  version "13.0.1"
+  resolved "https://registry.yarnpkg.com/celebrate/-/celebrate-13.0.1.tgz#55c70a8d4ac64b3bc44357e903287118b3b71ce5"
+  integrity sha512-wMChTd/dJIbw/i8u3ftdgWuXxbfNCla5OIV8BM03+/w1U0zrvC/UpcUjnPNhubWP3IlNzn3UWv8m11yD5AOgUw==
   dependencies:
     escape-html "1.0.3"
     joi "17.x.x"

@@ -13,7 +13,7 @@
 </p>
 
 <h1 align="center">
-  <img alt="Mockup" src="https://res.cloudinary.com/eliasgcf/image/upload/v1587509596/GoBarber/mockup_ocggit.png">
+  <img alt="Mockup GoBarber" src="https://res.cloudinary.com/samuelterra22/image/upload/v1613479461/mockup_gobarber.png">
 </h1>
 
 ## :page_with_curl: Sobre

@@ -1,5 +1,7 @@
 # Gobarber API
 
+![CI](https://github.com/samuelterra22/gobarber-api/workflows/CI/badge.svg)
+
 <h1 align="center">
   <img alt="Gobarber" src="https://res.cloudinary.com/eliasgcf/image/upload/v1588625369/GoBarber/logo_iw1v9f.svg" width="200px">
 </h1>

@@ -115,7 +115,3 @@ $ git commit -m 'feat: My new feature'
 # Envie o código para sua branch remote
 $ git push origin my-feature
 ```
-
-Depois que seu pull request for aceito e a feature estiver na branch principal, você pode deletar sua branch
-
-Feito com ❤️ por Samuel Terra 👋🏻 [Vamos de LinkedIn!](https://www.linkedin.com/in/samuelterra22/)
